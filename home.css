@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(119, 119, 119);
+}
+.container{
+    background-color: white;
+    margin-left: 30%;   
+    width: 600px;
+    height: fit-content;
+    padding: 10px 40px;
+    border: 1px solid rgb(10, 32, 10);
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(1, 105, 1);
+    color: white;
+}
+
+.question{
+    text-align: left;
+    padding-bottom: 12px;
+    font-size: xx-large;
+    color: rgb(100, 185, 255);
+}
+
+.button{
+    padding: 7px;
+    min-width: 200px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: rgb(69, 187, 255);
+    color: white;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.current-progress{
+    padding-bottom: 20px;
+}
